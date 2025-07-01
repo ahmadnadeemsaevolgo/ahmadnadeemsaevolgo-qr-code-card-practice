@@ -30,7 +30,7 @@ body {
 
 .qr-image {
   width: 100%;
-  border: 0x solid;
+  border: 0px solid;
   border-radius: 10px;
 }
 
